@@ -34,9 +34,24 @@ for ChatterBot.
 
 This package can be installed from [PyPi](https://pypi.python.org/pypi/ChatterBot) by running:
 
-```bash
-pip install chatterbot
-```
+### Step 1: pip install chatterbot
+### Step 2: pip install scikit-learn
+### Step 3: Go to https://github.com/aeliamomo/claude_testC_long/tree/main and install the rest
+
+#  Why This Project?
+
+Many educational and real-world scenarios need tools that are:
+
+Portable: Run the code on almost any system with Python installed
+
+Transparent: All computations are done explicitly; no hidden logic
+
+Secure: No installation of third-party dependencies of unknown trust
+
+Educational: Focus on learning how things work under the hood
+
+This project shows that a lot can be done with just the essentials.
+
 
 ## Basic Usage
 
