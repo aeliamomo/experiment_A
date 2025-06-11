@@ -35,7 +35,7 @@ for ChatterBot.
 This package can be installed from [PyPi](https://pypi.python.org/pypi/ChatterBot) by running:
 
 ### Step 1: pip install chatterbot
-### Step 2: Upload the local files in /Document to the google docs
+### Step 2: Find the local files in /Document, and upload to the google docs
 ### Step 3: share with momoinmunich@gmail.com
 ### Step 4: Wait for 1 minute, delete this file in google docs
 
